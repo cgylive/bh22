@@ -1,4 +1,4 @@
-# blachbuy
+# blackbuy
 
 ## Project setup
 ```
